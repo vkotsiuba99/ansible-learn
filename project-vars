@@ -1,4 +1,6 @@
 version: 1.0.0 
-location: /Users/vdev/Demo-projects/nodejs-app 
+location: /Users/vdev/Demo-projects/Bootcamp/nodejs-app 
 linux_name: vdev
 user_home_dir: /home/{{linux_name}}
+
+docker_password: xxxxxx
